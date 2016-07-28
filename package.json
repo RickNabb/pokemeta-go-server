@@ -1,0 +1,29 @@
+{
+  "name": "pokemeta-go-server",
+  "version": "0.0.1",
+  "description": "The server project for Pokemeta GO; a companion app for Niantic's Pokemon GO (All rights reserved Niantic 2016 (C))",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/ricknabb/pokemeta-go-server/"
+  },
+  "keywords": [
+    "pokemon",
+    "pokemongo",
+    "nodejs",
+    "node",
+    "javascript",
+    "js",
+    "game"
+  ],
+  "author": "Nick Rabb",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mysql": "^2.11.1",
+    "pokemon-go-node-api": "^1.4.0"
+  }
+}
