@@ -1,0 +1,16 @@
+[
+   {
+      "id":"localDev",
+      "databaseName":"pokemeta_go_dev",
+      "host":"localhost",
+      "user":"root",
+      "password":""
+   },
+   {
+      "id":"serverDev",
+      "databaseName":"pokemeta_go_dev",
+      "host":"localhost",
+      "user":"adventure",
+      "password":"YTE2ZTJkYTc4MWZkMm"
+   }
+]
